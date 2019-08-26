@@ -10,7 +10,7 @@ public class ConfigurationReader {
         try {
             //path to our .properties file
             //MIGHT BE WRONG PATH HERE, PAY ATTENTION
-            String path = "configuration.properties";
+            String path = "configuration.properties";//C:\Users\ieroglu\Desktop\ieroglu\Spring2019FinalTestNGFramework\configuration.properties
             //we create object of input stream to access file
             System.out.println(path);
             //provides access to file
